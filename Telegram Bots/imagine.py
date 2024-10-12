@@ -1,3 +1,8 @@
+# By @itzAsuraa 
+#Distribute and edit it as your wish but please don't remove credit
+#By stealing Credit of Developer you will not become pro so try to give full credit to Developer
+
+
 from pyrogram import Client, filters
 import requests
 
